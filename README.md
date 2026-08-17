@@ -23,4 +23,3 @@ Start the container, compiling TeX document in local directory:
         upshift/texlive-full \
 	pdflatex document.tex
 ```
-
